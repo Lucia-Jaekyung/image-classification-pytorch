@@ -1,1 +1,1 @@
-# image-classification-pytorch
+# paper-implementations-pytorch
