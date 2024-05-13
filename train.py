@@ -1,13 +1,9 @@
-import os
 import argparse
 
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
 import torch.backends.cudnn as cudnn
 import torch.optim as optim
-import torch.utils.model_zoo as model_zoo
-from torch import Tensor
 
 from networks.vgg import *
 from networks.resnet import *
